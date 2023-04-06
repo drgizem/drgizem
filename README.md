@@ -8,4 +8,4 @@ A passionate Frontend Developer
 - 📫 How to reach me: drgizemakpinar@gmail.com
 
 Connect with me:
-(https://www.linkedin.com/in/gizem-akpinar/)
+ ![] () (https://www.linkedin.com/in/gizem-akpinar/)
