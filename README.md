@@ -16,3 +16,4 @@
   <a href="https://code.visualstudio.com/" title="VSCode"><img loading="lazy" height="40" src="https://cdn.simpleicons.org/VisualStudioCode/007acc"></a>&nbsp;
 <a href="https://git-scm.com/" title="Git"><img loading="lazy" height="40" src="https://cdn.simpleicons.org/Git/f05032"></a>&nbsp;
 <a href="https://sass-lang.com/" title="Sass"><img loading="lazy" height="40" src="https://cdn.simpleicons.org/Sass/"></a>&nbsp;
+<a href="https://firebase.google.com/" title="Firebase"><img loading="lazy" height="40" src="https://cdn.simpleicons.org/Firebase/"></a>&nbsp;
